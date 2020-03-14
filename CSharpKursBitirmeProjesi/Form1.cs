@@ -16,7 +16,7 @@ namespace CSharpKursBitirmeProjesi
         {
             InitializeComponent();
             //test
-
+            //sdfgsdhgdfghdg
 
         }
     }
