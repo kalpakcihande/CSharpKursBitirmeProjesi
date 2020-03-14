@@ -16,9 +16,8 @@ namespace CSharpKursBitirmeProjesi
         {
             InitializeComponent();
             //test
-            //Deneme
 
-            //kjhvkyrdtrvlıunlıyufyrcvkul
+
         }
     }
 }
